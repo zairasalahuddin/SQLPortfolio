@@ -10,8 +10,7 @@ INSERT INTO book_store VALUES(7,"A Court of Thorns and Roses","Sarah J. Maas",17
 INSERT INTO book_store VALUES(8,"Babel","R.F. Kuang",20.99,"Historical Fiction",9);
 INSERT INTO book_store VALUES(9,"The Seven Husbands of Evelyn Hugo","Taylor Jenkins Reid",15.99,"YA Fiction",3);
 INSERT INTO book_store VALUES(10,"A Ballad of Never After","Stephanie Garber",18.99,"Fantasy",3);
-INSERT INTO book_store VALUES(11,"Circe",
-"Madeline Miller",16.99,"Fantasy",2);
+INSERT INTO book_store VALUES(11,"Circe","Madeline Miller",16.99,"Fantasy",2);
 INSERT INTO book_store VALUES(12,"On Earth We're Briefly Gorgeous","Ocean Vuong",10.99,"Poetry",6);
 INSERT INTO book_store VALUES(13,"The Song of Achilles","Madeline Miller",14.99,"Fantasy",4);
 INSERT INTO book_store VALUES(14,"The Midnight Library","Matt Haig",13.99,"YA Fiction",7);
